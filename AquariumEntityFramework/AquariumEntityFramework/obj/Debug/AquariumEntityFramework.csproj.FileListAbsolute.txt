@@ -1,0 +1,12 @@
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\AquariumEntityFramework.exe.config
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\AquariumEntityFramework.exe
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\AquariumEntityFramework.pdb
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\obj\Debug\AquariumEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\obj\Debug\AquariumEntityFramework.exe
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\obj\Debug\AquariumEntityFramework.pdb
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\obj\Debug\AquariumEntityFramework.Migrations.First.resources
+C:\Users\Danny\tiy\week-6\day-1\AquariumEntityFramework\AquariumEntityFramework\obj\Debug\AquariumEntityFramework.csproj.GenerateResource.Cache
