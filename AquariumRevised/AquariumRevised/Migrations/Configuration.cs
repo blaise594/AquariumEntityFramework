@@ -38,6 +38,27 @@ namespace AquariumRevised.Migrations
             };
 
             oceans.ForEach(oc => context.Oceans.AddOrUpdate(o => o.Name, oc));
+            context.SaveChanges();
+
+            var creatures = new List<AquaticLife>
+            {
+                new AquaticLife{Name = "Winter", Type = "Dolphin", Color = "Grey"},
+                new AquaticLife{Name = "Fin", Type = "Shark", Color = "Blue"},
+                new AquaticLife{Name = "Nemo", Type = "Fish", Color = "Orange"},
+                new AquaticLife{Name = "Dory", Type = "Fish", Color = "Blue"}
+            };
+            creatures.ForEach(creature => context.AquaticLife.AddOrUpdate(c => c.Type, creature));
+
+            var places = new List<Aquarium>
+            {
+                new Aquarium {Name = "Shedd Aquarium", City = "Chicago"},
+                new Aquarium {Name = "Georgia Aquarium", City = "Atlanta"},
+                new Aquarium {Name = "National Aquarium", City = "Baltimore"},
+                new Aquarium {Name = "Tennesssee Aquarium", City = "Chatanooga"}
+            };
+
+            places.ForEach(place => context.Aquariums.AddOrUpdate(p => p.Name, city));
+            context.SaveChanges();
         }
     }
 }
